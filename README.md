@@ -1,2 +1,2 @@
 # Assignments
-Basic Statistics ,Hypothesis , Machine Leaning .Deep Learning Assignments
+Basic Statistics ,Hypothesis , Machine Learning .Deep Learning Assignments
